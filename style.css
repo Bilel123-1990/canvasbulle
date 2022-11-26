@@ -1,0 +1,24 @@
+body{
+    background: rgb(102, 8, 8);
+   /* border: 2px solid rgb(201, 38, 17);*/
+}
+
+.div1{
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    background-color: #fff;
+    border-top: 6mm ridge rgba(255,215,0,255);
+    border-bottom: 6mm ridge rgba(255,215,0,255);
+    border-left: 6mm ridge rgba(255,215,0,255);
+    border-right: 6mm ridge rgba(255,215,0,255);
+    
+}
+
+
+/* #myCanvas{
+    border:1px solid #000 ;
+
+} */
